@@ -31,6 +31,7 @@ The mobile differential robot's physical structure is 3D printed using PLA, with
 - 1 Structure for component assembly
 - Cables and Jumpers
 - 3D printer and 100g PLA filament
+
 The project explores the intersection of hardware and software, utilizing a range of components to achieve autonomous functionality in a differential drive configuration. Feel free to explore the code iterations and contribute to the project's development!
 
 ## Usage 
