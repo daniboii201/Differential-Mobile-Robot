@@ -22,7 +22,7 @@ The mobile differential robot's physical structure is 3D printed using PLA, with
 - 1 H-bridge L298N
 - 2 Motors with quadrature encoders (140RPM Chihai Motor at 12V or similar)
 - 1 Buzzer
-- 1 3S LiPo Battery (Turnigy 3S 1000mAh LiPo Battery) with charger
+- 1 3S LiPo Battery (Turnigy 3S 1300mAh LiPo Battery) with charger
 - 1 Switch
 - 1 Push Button
 - 1 Resistor 1kΩ
