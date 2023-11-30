@@ -59,7 +59,8 @@ Upload the Arduino code named "Robot_diferencial_autonomo_con_ESP32" to your ESP
 
 6. Optimized Use:
 - Once the code is uploaded, and the robot is assembled and tested, you can enjoy the optimized autonomous functionalities of your mobile differential robot.
-- Feel free to explore, modify, and contribute to the project. Your feedback and improvements are highly appreciated. For any inquiries or issues, refer to the documentation or reach out to the project's community.
+
+Feel free to explore, modify, and contribute to the project. Your feedback and improvements are highly appreciated. For any inquiries or issues, refer to the documentation or reach out to the project's community.
 
 ## Course Source
 For detailed insights and the original course content, refer to the Udemy course by Edison Sásig:
