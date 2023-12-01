@@ -1,5 +1,7 @@
 # Mobile Differential Robot
-Welcome to the repository for my capstone project, a work in progress as part of my ongoing studies in the Technologies of Automation & Control class during my Bachelor's in Mechanical Engineering program.
+Welcome to the repository for my capstone project, successfully completed as part of my studies in the Technologies of Automation & Control class during my Bachelor's in Mechanical Engineering program.
+
+This project focuses on the development and testing of a mobile differential robot designed for autonomous navigation. The repository includes Arduino code iterations for encoder testing, Bluetooth integration, motor speed control, open-loop and PID lambda control, fine-tuning, and a comprehensive final test.
 
 ## Overview
 This project is inspired by Edison Sásig's Udemy Course titled "Mobile differential robot: Autonomous Navigation." I utilized the theoretical knowledge gained from the course to implement the project, following step-by-step instructions provided by the instructor.
