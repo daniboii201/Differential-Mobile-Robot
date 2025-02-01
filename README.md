@@ -1,5 +1,5 @@
 # Mobile Differential Robot
-Welcome to the repository for my capstone project, successfully completed as part of my studies in the Technologies of Automation & Control class during my Bachelor's in Mechanical Engineering program.
+Welcome to the repository for my project.
 
 This project centers around the development and testing of a mobile differential robot. While initially designed for autonomous navigation, the current implementation involves control solely through Arduino's serial monitor.
 
